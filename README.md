@@ -1,25 +1,25 @@
-# Frontend Mentor - Typemaster pre-launch landing page solution
+# Frontend Mentor - typemaster-launch-landing-page
 
-This is a solution to the [Typemaster pre-launch landing page challenge on Frontend Mentor](). Frontend Mentor challenges help me to improve my coding skills by building realistic projects.
+This is a solution to the [typemaster-launch-landing-page]
 
 ### Screenshot
 
-![](./starter-code/screennew.png)
+![](./starter-code/assets/desktop/screennew.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/)
+- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/indexpro2.html)
 
 ## My process
 
 ### Built with
 
-- HTML
-- CSS custom properties
+- Semantic HTML5 markup
+- CSS
 - Flexbox
 - responsive design
 
 ### What I learned
 
-- html
-- CSS
+HTML
+CSS
