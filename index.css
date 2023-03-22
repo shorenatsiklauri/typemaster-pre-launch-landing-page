@@ -23,7 +23,8 @@ header {
   display: flex;
   justify-content: space-between;
   background: #FFFFFF;
-  margin: 20px;
+  margin-bottom: 60px;
+  margin-right: 65px;
 
 }
 header svg {
@@ -368,6 +369,8 @@ header {
   display: flex;
   justify-content: space-between;
   background: #FFFFFF;
+  margin-bottom: 60px;
+  margin-right: 65px;
   
   }
 
